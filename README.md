@@ -1,2 +1,1 @@
-# Dlang-learn-4ront
-Lean D Programming Language
+# Learn [D Programming language](https://dlang.org)
