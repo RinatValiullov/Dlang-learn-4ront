@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"rinat"
+	],
+	"copyright": "Copyright © 2022, rinat",
+	"dependencies": {
+		"dscanner": "~>0.11.1"
+	},
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "foreach"
+}
